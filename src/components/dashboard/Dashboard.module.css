@@ -1,0 +1,16 @@
+.main {
+}
+
+.title {
+  color: #1a2e35;
+  margin-top: 20px;
+}
+
+.username {
+  font-size: 20px;
+  color: #385a64;
+}
+
+.deleteButton {
+  width: 100% !important;
+}

@@ -1,0 +1,26 @@
+.title {
+  font-size: 56px;
+  color: #ff4f5a;
+}
+.description {
+  color: #1a2e35;
+}
+.singup {
+  background-color: #385a64;
+  margin-right: 20px;
+}
+
+.singup:hover {
+  background-color: #1d4f5e !important;
+  border: none !important;
+}
+
+.login {
+  background-color: #385a64;
+  margin-right: 20px;
+}
+
+.login:hover {
+  background-color: #1d4f5e !important;
+  border: none !important;
+}

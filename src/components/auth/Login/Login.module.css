@@ -1,0 +1,14 @@
+.signup {
+  background-color: #385a64;
+}
+
+.signup:hover {
+  background-color: #21444f;
+  border: none;
+}
+.container {
+  display: flex;
+  align-items: center !important;
+  justify-content: center;
+  min-height: 90vh;
+}

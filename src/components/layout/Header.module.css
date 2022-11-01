@@ -1,0 +1,13 @@
+.navbar {
+  background-color: #1a2e35;
+}
+.logo {
+  color: #fff !important;
+}
+.menu {
+  color: #fff !important;
+}
+.mainDiv {
+  display: flex;
+  justify-content: space-between;
+}
